@@ -16,7 +16,8 @@ D   (Deleted)   = file yang dihapus
 A   (Added)     = file yang ditambahkan dalam mode staged  
 
 ## Gambar Rangkaian Simulasi
-<img src="[url_gambar](https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/Simulation/simulasi.jpeg?raw=true)" alt="Simulasi">
+<img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/Simulation/simulasi.jpeg" alt="Simulasi">
+Untuk simulasi dapat dilihat pada: https://wokwi.com/projects/398312099364933633
 
 
 Link Rangkaian Wokwi
