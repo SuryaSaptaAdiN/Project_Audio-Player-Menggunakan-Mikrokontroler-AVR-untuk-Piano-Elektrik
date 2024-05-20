@@ -15,8 +15,9 @@ M   (Modified)  = file yang sudah pernah masuk ke dalam database Git dan sudah p
 D   (Deleted)   = file yang dihapus  
 A   (Added)     = file yang ditambahkan dalam mode staged  
 
-Link Gambar Rangkaian
-<img src="url_gambar" alt="Alt Text">
+## Gambar Rangkaian Simulasi
+<img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/Simulation/simulasi.jpeg" alt="Simulasi">
+Untuk simulasi dapat dilihat pada: https://wokwi.com/projects/398312099364933633
 
 
 Link Rangkaian Wokwi
