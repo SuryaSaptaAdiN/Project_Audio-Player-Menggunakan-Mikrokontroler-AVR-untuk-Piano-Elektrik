@@ -1,3 +1,4 @@
+<img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/Simulation/simulasi.jpeg" alt="Simulasi">
 Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan dan pemutaran sinyal audio melalui mikrokontroler AVR. Dalam Proyek ini membuat alat musik piano elektrik yang mampu mengisi waktu luang dengan memainkan alat musik dan memudahkan pengguna untuk membawa piano elektrik ini. Output audio yang dibangkitkan dikeluarkan ke speaker aktif untuk memastikan kualitas suara yang baik.
 
 ## Daftar Komponen
