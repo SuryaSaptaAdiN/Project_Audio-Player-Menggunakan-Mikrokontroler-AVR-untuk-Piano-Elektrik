@@ -15,3 +15,4 @@ Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan 
 Untuk simulasi dapat dilihat pada: https://wokwi.com/projects/398312099364933633
 
 ## Desain 3D Piano
+<img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/Piano%202%20Front.png" alt="Desain 3D">
