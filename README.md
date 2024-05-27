@@ -3,6 +3,14 @@
 
 <img src="" alt="Poster">
 
+Dibuat Oleh:
+- Surya Sapta Adi Nugraha  (2122500014)
+- Abimanyu Fajar Ramadhan  (2122500008)
+- Abdullah Hanafi Salim    (2122500010)
+- Gusma Kemal Pasha        (2122500011)
+- Salsabillah Whita Rosa   (2122500022)
+- Hambali Ahmad            (2122500027)
+
 ## Daftar Isi
 - [Deskripsi](#Deskripsi)
 - [Fitur](#Fitur)
