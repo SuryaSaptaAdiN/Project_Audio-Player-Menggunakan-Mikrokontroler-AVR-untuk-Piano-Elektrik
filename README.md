@@ -3,10 +3,10 @@
 
 ## Daftar Isi
 - [Deskripsi](#Deskripsi)
-- Fitur
-- Alat & Bahan
-- Konsep Kerja
-- Desain Proyek
+- [Fitur](#Fitur)
+- [Alat & Bahan](#Alat & Bahan)
+- [Konsep Kerja](#Konsep Kerja)
+- [Desain Proyek](#Desain Proyek)
   
 ## Deskripsi
 Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan dan pemutaran sinyal audio melalui mikrokontroler AVR. Dalam Proyek ini membuat alat musik piano elektrik yang mampu mengisi waktu luang dengan memainkan alat musik dan memudahkan pengguna untuk membawa piano elektrik ini. Output audio yang dibangkitkan dikeluarkan ke speaker aktif untuk memastikan kualitas suara yang baik.
