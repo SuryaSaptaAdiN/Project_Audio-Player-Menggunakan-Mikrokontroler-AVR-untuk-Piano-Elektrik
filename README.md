@@ -2,7 +2,7 @@
 <img src="" alt="Poster">
 
 ## Daftar Isi
-- Deskripsi
+- [Deskripsi](#Deskripsi)
 - Fitur
 - Alat & Bahan
 - Konsep Kerja
