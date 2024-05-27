@@ -1,5 +1,5 @@
 # Audio Player Menggunakan Mikrokontroler AVR untuk Piano Elektrik 
-## Workshop Mikrokonroler // D3 Teknik Elektronika A // [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id/)
+## Workshop Mikrokonroler // D3 Teknik Elektronika A // <a href="https://www.pens.ac.id/" target="_blank">Politeknik Elektronika Negeri Surabaya</a>
 
 <img src="" alt="Poster">
 
