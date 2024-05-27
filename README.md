@@ -1,6 +1,16 @@
+
 <img src="" alt="Poster">
+
+## Daftar Isi
+# - Deskripsi
+## Deskripsi
 Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan dan pemutaran sinyal audio melalui mikrokontroler AVR. Dalam Proyek ini membuat alat musik piano elektrik yang mampu mengisi waktu luang dengan memainkan alat musik dan memudahkan pengguna untuk membawa piano elektrik ini. Output audio yang dibangkitkan dikeluarkan ke speaker aktif untuk memastikan kualitas suara yang baik.
 
+## Fitur
+- Pembangkitan sinyal audio melalui mikrokontroler AVR.
+- Tombol push button untuk memainkan nada tertentu.
+- Output audio dikeluarkan ke speaker aktif.
+  
 ## Daftar Komponen
 1. Arduino ATmega 2560  1x
 2. Push Button          8x
