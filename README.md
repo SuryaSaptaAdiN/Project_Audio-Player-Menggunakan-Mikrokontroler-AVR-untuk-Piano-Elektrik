@@ -4,12 +4,12 @@
 <img src="" alt="Poster">
 
 Dibuat Oleh:
-- Surya Sapta Adi Nugraha  (2122500014)
-- Abimanyu Fajar Ramadhan  (2122500008)
-- Abdullah Hanafi Salim    (2122500010)
-- Gusma Kemal Pasha        (2122500011)
-- Salsabillah Whita Rosa   (2122500022)
-- Hambali Ahmad            (2122500027)
+- Surya Sapta Adi Nugraha  (2122500014) sebagai Leader
+- Abimanyu Fajar Ramadhan  (2122500008) sebagai Designer Hardware
+- Abdullah Hanafi Salim    (2122500010) sebagai Programmer
+- Gusma Kemal Pasha        (2122500011) sebagai PCB Maker
+- Salsabillah Whita Rosa   (2122500022) sebagai Audio Setting
+- Hambali Ahmad            (2122500027) sebagai Dokumenter
 
 ## Daftar Isi
 - [Deskripsi](#Deskripsi)
@@ -50,6 +50,7 @@ Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan 
 
 ## Desain Proyek
 #### Gambar Rangkaian Simulasi
+Berikut lampiran gambar dari hasil desain melalui software <a href="https://wokwi.com/" target="_blank">Wokwi</a>.
 <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/Simulation/simulasi.jpeg" alt="Simulasi">
 Untuk simulasi dapat dilihat pada: https://wokwi.com/projects/398312099364933633
 
