@@ -87,6 +87,7 @@ Detail foto untuk kemasan dapat dilihat pada: <a href="https://github.com/SuryaS
 - Convert Audio ke file(.hex)
 - Simulasi Program
 Simulasi dapat dilihat pada: <a href="https://wokwi.com/projects/398312099364933633" target="_blank">Wokwi Simulasi</a>.
+
 Detail dari simulasi dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/Simulation" target="_blank">Simulation Github</a>.
 - Video Simulasi
 
