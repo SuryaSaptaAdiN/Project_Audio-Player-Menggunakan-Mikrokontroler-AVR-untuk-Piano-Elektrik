@@ -70,11 +70,32 @@ Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan 
 [![Tutorial Pembuatan Desain 3D Piano Digital Mneggunakan Fusion 360](https://img.youtube.com/vi/R6Fa050dKPA/0.jpg)](https://www.youtube.com/watch?v=R6Fa050dKPA)
 
 - Foto 3D
-| ![Image 1](https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/ALL%20IN.jpeg) | ![Image 2]([path/to/image2.jpg](https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/ALL%20IN%202.jpeg)) | ![Image 3]([path/to/image3.jpg](https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/output.jpeg)) | ![Image 4](path/to/image4.jpg) |
-|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
-| Gambar 1                       | Gambar 2                       | Gambar 3                       | Gambar 4                       |
-| ![Image 5](path/to/image5.jpg) | ![Image 6](path/to/image6.jpg) | ![Image 7](path/to/image7.jpg) | ![Image 8](path/to/image8.jpg) |
-| Gambar 5                       | Gambar 6                       | Gambar 7                       | Gambar 8                       |
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 25%; max-width: 25%; padding: 5px;">
+    <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/ALL%20IN.jpeg" alt="Image 1" style="width:100%">
+  </div>
+  <div style="flex: 25%; max-width: 25%; padding: 5px;">
+    <img src="path/to/image2.jpg" alt="Image 2" style="width:100%">
+  </div>
+  <div style="flex: 25%; max-width: 25%; padding: 5px;">
+    <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/output.jpeg" alt="Image 3" style="width:100%">
+  </div>
+  <div style="flex: 25%; max-width: 25%; padding: 5px;">
+    <img src="path/to/image4.jpg" alt="Image 4" style="width:100%">
+  </div>
+  <div style="flex: 25%; max-width: 25%; padding: 5px;">
+    <img src="path/to/image5.jpg" alt="Image 5" style="width:100%">
+  </div>
+  <div style="flex: 25%; max-width: 25%; padding: 5px;">
+    <img src="path/to/image6.jpg" alt="Image 6" style="width:100%">
+  </div>
+  <div style="flex: 25%; max-width: 25%; padding: 5px;">
+    <img src="path/to/image7.jpg" alt="Image 7" style="width:100%">
+  </div>
+  <div style="flex: 25%; max-width: 25%; padding: 5px;">
+    <img src="path/to/image8.jpg" alt="Image 8" style="width:100%">
+  </div>
+</div>
 
 #### Program
 - Convert Audio ke file(.hex)
