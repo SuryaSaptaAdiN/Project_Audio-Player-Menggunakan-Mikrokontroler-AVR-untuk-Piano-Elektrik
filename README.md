@@ -59,7 +59,7 @@ Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan 
 - Desain Skematik Shield Arduino
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1 1 22%; max-width: 22%; margin: 5px;">
-<img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/PCB/schematic.jpg" alt="Desain Skematik" style="width: 100%; height: auto;">
+<img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/PCB/schematic.jpg" alt="Desain Skematik" style="width: 22%; height: auto;">
   </div>
 </div>
 Detail desain skematik dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/PCB" target="_blank">Design Schematic</a>
