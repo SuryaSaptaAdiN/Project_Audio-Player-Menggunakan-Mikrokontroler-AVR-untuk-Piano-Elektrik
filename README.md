@@ -60,6 +60,7 @@ Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan 
 <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/Piano%202%20Front.png" alt="Desain 3D">
 - Video Pembuatan Desain 3D
 - Foto 3D
+
 #### Program
 - Convert Audio ke file(.hex)
 - 
