@@ -6,12 +6,14 @@ NIP. 197501272002121003
 <img src="" alt="Poster">
 
 Dibuat Oleh:
-- Surya Sapta Adi Nugraha  (2122500014) sebagai Leader
-- Abimanyu Fajar Ramadhan  (2122500008) sebagai Designer Hardware
-- Abdullah Hanafi Salim    (2122500010) sebagai Programmer
-- Gusma Kemal Pasha        (2122500011) sebagai PCB Maker
-- Salsabillah Whita Rosa   (2122500022) sebagai Audio Setting
-- Hambali Ahmad            (2122500027) sebagai Dokumenter
+| No.  | Nama  | NRP  | Status  |
+| :------------: | :------------: | :------------: | :------------: |
+| 1  | Surya Sapta Adi Nugraha  | 2122500014  | Leader  |
+| 2  | Abimanyu Fajar Ramadhan  | 2122500008  | Designer Hardware  |
+| 3  |  Abdullah Hanafi Salim  | 2122500010  |  Programmer |
+| 4  |  Gusma Kemal Pasha |  2122500011 | PCB Maker |
+| 5  |  Salsabillah Whita Rosa | 2122500022  |  sebagai Audio Setting |
+| 6  | Hambali Ahmad  |  2122500027 | Dokumenter  |
 
 ## Daftar Isi
 - [Deskripsi](#Deskripsi)
