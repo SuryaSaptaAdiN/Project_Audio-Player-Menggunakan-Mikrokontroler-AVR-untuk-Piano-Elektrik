@@ -64,38 +64,15 @@ Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan 
 #### 3D Kemasan Proyek
 - Desain 3D Case Arduino
 <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/Piano%202%20Front.png" alt="Desain 3D">
+Detail desain untuk case arduino dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/3D%20Package" target="_blank">Design Package</a>
 
 - Video Pembuatan Desain 3D
   
 [![Tutorial Pembuatan Desain 3D Piano Digital Mneggunakan Fusion 360](https://img.youtube.com/vi/R6Fa050dKPA/0.jpg)](https://www.youtube.com/watch?v=R6Fa050dKPA)
 
 - Foto 3D
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 25%; max-width: 25%; padding: 5px;">
-    <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/ALL%20IN.jpeg" alt="Image 1" style="width:100%">
-  </div>
-  <div style="flex: 25%; max-width: 25%; padding: 5px;">
-    <img src="path/to/image2.jpg" alt="Image 2" style="width:100%">
-  </div>
-  <div style="flex: 25%; max-width: 25%; padding: 5px;">
-    <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/output.jpeg" alt="Image 3" style="width:100%">
-  </div>
-  <div style="flex: 25%; max-width: 25%; padding: 5px;">
-    <img src="path/to/image4.jpg" alt="Image 4" style="width:100%">
-  </div>
-  <div style="flex: 25%; max-width: 25%; padding: 5px;">
-    <img src="path/to/image5.jpg" alt="Image 5" style="width:100%">
-  </div>
-  <div style="flex: 25%; max-width: 25%; padding: 5px;">
-    <img src="path/to/image6.jpg" alt="Image 6" style="width:100%">
-  </div>
-  <div style="flex: 25%; max-width: 25%; padding: 5px;">
-    <img src="path/to/image7.jpg" alt="Image 7" style="width:100%">
-  </div>
-  <div style="flex: 25%; max-width: 25%; padding: 5px;">
-    <img src="path/to/image8.jpg" alt="Image 8" style="width:100%">
-  </div>
-</div>
+<img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/ALL%20IN.jpeg" alt="Desain 3D">
+Detail foto untuk kemasan dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/3D%20Package" target="_blank">Pict Package</a>
 
 #### Program
 - Convert Audio ke file(.hex)
