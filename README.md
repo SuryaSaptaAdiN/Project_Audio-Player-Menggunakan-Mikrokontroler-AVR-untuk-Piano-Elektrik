@@ -51,6 +51,8 @@ Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan 
 7. Resistor 220ohm      1x
 
 ## Konsep Kerja
+#### Blok Diagram
+#### Cara Kerja
 
 ## Detail Proyek
 #### PCB
@@ -68,6 +70,11 @@ Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan 
 [![Tutorial Pembuatan Desain 3D Piano Digital Mneggunakan Fusion 360](https://img.youtube.com/vi/R6Fa050dKPA/0.jpg)](https://www.youtube.com/watch?v=R6Fa050dKPA)
 
 - Foto 3D
+| ![Image 1](https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/ALL%20IN.jpeg) | ![Image 2]([path/to/image2.jpg](https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/ALL%20IN%202.jpeg)) | ![Image 3]([path/to/image3.jpg](https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/output.jpeg)) | ![Image 4](path/to/image4.jpg) |
+|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
+| Gambar 1                       | Gambar 2                       | Gambar 3                       | Gambar 4                       |
+| ![Image 5](path/to/image5.jpg) | ![Image 6](path/to/image6.jpg) | ![Image 7](path/to/image7.jpg) | ![Image 8](path/to/image8.jpg) |
+| Gambar 5                       | Gambar 6                       | Gambar 7                       | Gambar 8                       |
 
 #### Program
 - Convert Audio ke file(.hex)
