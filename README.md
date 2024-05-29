@@ -1,5 +1,7 @@
 # Audio Player Menggunakan Mikrokontroler AVR untuk Piano Elektrik 
 ## Workshop Mikrokonroler // D3 Teknik Elektronika A // <a href="https://www.pens.ac.id/" target="_blank">Politeknik Elektronika Negeri Surabaya</a>
+DOSEN PENGAMPU : Akhmad Hendriawan ST, MT  
+NIP. 197501272002121003
 
 <img src="" alt="Poster">
 
