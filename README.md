@@ -36,7 +36,7 @@ DIBUAT OLEH:
     - [Video Pembuatan Desain 3D](#Video-Pembuatan-Desain-3D)
     - [Foto 3D](#Foto-3D)
   - [Program](#Program)
-    - [Convert Audio ke File Hex](#Convert-Audio-ke-File-Hex)
+    - [Convert Audio ke File RAW](#Convert-Audio-ke-File-RAW)
     - [Video Convert Audio](#Video-Convert-Audio)
     - [Simulasi Program](#Simulasi-Program)
     - [Video Simulasi](#Video-Simulasi)
@@ -106,7 +106,9 @@ Tutorial pembuatan desain 3D untuk pengemasan alat proyek dapat dilihat pada lin
 Detail foto untuk kemasan dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/3D%20Package" target="_blank">Pict Package</a>
 
 ### Program
-#### Convert Audio ke File-Hex
+#### Convert Audio ke File RAW
+Data dari semua tuts piano yang telah dicovert menjadi file RAW dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/Tuts%20Piano" target="_blank">All Audio Piano</a>.
+
 #### Video Convert Audio
 #### Simulasi Program
 Simulasi dapat dilihat pada: <a href="https://wokwi.com/projects/398312099364933633" target="_blank">Wokwi Simulasi</a>.
