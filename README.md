@@ -76,9 +76,7 @@ Detail desain skematik dapat dilihat pada: <a href="https://github.com/SuryaSapt
 Detail desain untuk case arduino dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/3D%20Package" target="_blank">Design Package</a>
 
 - Video Pembuatan Desain 3D
-
 Tutorial pembuatan desain 3D untuk pengemasan alat proyek dapat dilihat pada link berikut:
-
 <a href="https://www.youtube.com/watch?v=R6Fa050dKPA" target="_blank">Video Tutorial by Abimanyu</a>
 
 - Foto 3D
