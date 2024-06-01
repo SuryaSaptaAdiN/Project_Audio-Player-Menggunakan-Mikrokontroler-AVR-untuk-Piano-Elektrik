@@ -123,13 +123,13 @@ Simulasi dari program melalui software wokwi dapat dilihat pada link berikut:
 ## Dokumentasi Proyek dan Team
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1 1 22%; max-width: 22%; margin: 5px;">
-    <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/About%20Project/Dokumentasi%20Team/check%20jalur%20pcb.jpeg" alt="Image 1" style="width: 100%; height: auto;">
+    <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/About%20Project/Dokumentasi%20Team/check%20jalur%20pcb.jpeg" alt="Image 1" style="width: 22%; height: auto;">
   </div>
   <div style="flex: 1 1 22%; max-width: 22%; margin: 5px;">
-    <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/About%20Project/Dokumentasi%20Team/check%20audio%20raw.jpeg" alt="Image 2" style="width: 100%; height: auto;">
+    <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/About%20Project/Dokumentasi%20Team/check%20audio%20raw.jpeg" alt="Image 2" style="width: 22%; height: auto;">
   </div>
   <div style="flex: 1 1 22%; max-width: 22%; margin: 5px;">
-    <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/About%20Project/Dokumentasi%20Team/update%20repository.jpeg" alt="Image 3" style="width: 100%; height: auto;">
+    <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/About%20Project/Dokumentasi%20Team/update%20repository.jpeg" alt="Image 3" style="width: 22%; height: auto;">
   </div>
   <div style="flex: 1 1 22%; max-width: 22%; margin: 5px;">
     <img src="path/to/image4.jpg" alt="Image 4" style="width: 100%; height: auto;">
