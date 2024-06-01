@@ -41,6 +41,7 @@ DIBUAT OLEH:
     - [Simulasi Program](#Simulasi-Program)
     - [Video Simulasi](#Video-Simulasi)
     - [Realisasi Program](#Realisasi-Program)
+  - [Dokumentasi Proyek dan Team](#Dokumentasi-Proyek-dan-Team)
   
 ## Deskripsi
 Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan dan pemutaran sinyal audio melalui mikrokontroler AVR. Dalam Proyek ini membuat alat musik piano elektrik yang mampu mengisi waktu luang dengan memainkan alat musik dan memudahkan pengguna untuk membawa piano elektrik ini. Output audio yang dibangkitkan dikeluarkan ke speaker aktif untuk memastikan kualitas suara yang baik.
@@ -115,6 +116,8 @@ Simulasi dapat dilihat pada: <a href="https://wokwi.com/projects/398312099364933
 
 Detail dari simulasi dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/Simulation" target="_blank">Simulation Github</a>.
 #### Video Simulasi
+Simulasi dari program melalui software wokwi dapat dilihat pada link berikut:
+<a href="https://youtu.be/XzKsaTkORDI?si=tM6pIqVIvMEymQc2" target="_blank">Video Simulasi by Surya & Hanafi</a>
 
 #### Realisasi Program
-
+## Dokumentasi Proyek dan Team
