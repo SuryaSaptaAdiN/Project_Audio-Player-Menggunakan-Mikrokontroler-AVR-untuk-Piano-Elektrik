@@ -97,6 +97,13 @@ Detail desain skematik dapat dilihat pada: <a href="https://github.com/SuryaSapt
 <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/Piano%202%20Front.png" alt="Desain 3D">
 Detail desain untuk case arduino dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/3D%20Package" target="_blank">Design Package</a>
 
+Keterangan Ukuran:
+- Bagian Bawah panjang 172mm dan lebar 96mm
+- Tinggi bagian bawah 17mm
+- Bagian atas panjang 168mm dan lebar 62mm
+- Tinggi bagian atas 8mm
+- lubang jack 10mm
+
 #### Video Pembuatan Desain 3D
 
 Tutorial pembuatan desain 3D untuk pengemasan alat proyek dapat dilihat pada link berikut:
@@ -104,6 +111,7 @@ Tutorial pembuatan desain 3D untuk pengemasan alat proyek dapat dilihat pada lin
 
 #### Foto 3D
 <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/ALL%20IN.jpeg" alt="Desain 3D">
+
 Detail foto untuk kemasan dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/3D%20Package" target="_blank">Pict Package</a>
 
 ### Program
@@ -124,3 +132,5 @@ Simulasi dari program melalui software wokwi dapat dilihat pada link berikut:
 https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/assets/168740916/ee1586a2-95dd-4360-ae75-e725f54b5b29
 
 https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/assets/168740916/f328bb08-1285-4355-9b0a-1f4d35c735a2
+
+Detail selengkapnya mengenai dokumentasi yang berhubungan dengan proyek atau seputar team dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/About%20Project" target="_blank">About Project</a>
