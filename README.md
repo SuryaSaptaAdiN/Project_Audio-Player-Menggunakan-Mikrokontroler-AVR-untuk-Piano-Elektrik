@@ -72,7 +72,10 @@ Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan 
 
 ## Konsep Kerja
 ### Blok Diagram
+<img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/About%20Project/Block%20diagram.png" alt="Blok Diagram">
+
 ### Cara Kerja
+Proyek Audio Player untuk Piano Elektrik ini beroperasi dengan menggunakan mikrokontroler AVR sebagai pusat pengendalian. Sumber daya untuk proyek ini disediakan oleh baterai 9V, yang alirannya dapat diatur melalui saklar ON/OFF. Mikrokontroler ini terhubung ke berbagai komponen lainnya. Ada delapan push button, setiap tombol ini berfungsi untuk memainkan nada yang berbeda pada piano elektrik. Terdapat switch tiga pin sebagai pergantian mode nada piano elektrik. Pada mode I (kiri) mengeluarkan nada rendah, pada mode 0 (tengah) mengeluarkan nada normal, dan II (kanan) akan mengeluarkan nada tinggi. Selain itu, ada port input audio yang diberi label “JACK IN” yang akan menghubungkan mikrokontroler dengan speaker eksternal. Speaker ekternal digunakan untuk menghasilkan suara piano. Dengan demikian, proyek ini menciptakan sistem pemutar audio ketika ditekan yang dapat memainkan seperti suara piano.
 
 ## Detail Proyek
 ### PCB
@@ -96,13 +99,15 @@ Detail hasil desain PCB dapat dilihat pada: <a href="https://github.com/SuryaSap
 
 ### 3D Kemasan Proyek
 #### Desain 3D Case Arduino
-<img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/Piano%202%20Front.png" alt="Desain 3D">
-Detail desain untuk case arduino dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/3D%20Package" target="_blank">Design Package</a>
+<img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/Display%20github.png" alt="Desain 3D">
+Detail desain untuk case arduino dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/3D%20Package" target="_blank">Design Package</a> atau <a href="https://www.thingiverse.com/thing:6646377" target="_blank">Thingiverse</a>
 
 Keterangan Ukuran:
-- Bagian Bawah panjang 172mm dan lebar 96mm
+- Panjang bagian bawah 172mm
+- Lebar bagian bawah 96mm
 - Tinggi bagian bawah 17mm
-- Bagian atas panjang 168mm dan lebar 62mm
+- Panjang bagian atas 168mm
+- Lebar bagian atas 62mm
 - Tinggi bagian atas 8mm
 - lubang jack 10mm
 
