@@ -36,7 +36,7 @@ DIBUAT OLEH:
     - [Video Pembuatan Desain 3D](#Video-Pembuatan-Desain-3D)
     - [Foto 3D](#Foto-3D)
   - [Program](#Program)
-    - [Convert Audio ke File RAW](#Convert-Audio-ke-File-RAW)
+    - [Convert Audio](#Convert-Audio)
     - [Video Convert Audio](#Video-Convert-Audio)
     - [Simulasi Program](#Simulasi-Program)
     - [Video Simulasi](#Video-Simulasi)
@@ -114,7 +114,7 @@ Keterangan Ukuran:
 #### Video Pembuatan Desain 3D
 
 Tutorial pembuatan desain 3D untuk pengemasan alat proyek dapat dilihat pada link berikut:
-<a href="https://www.youtube.com/watch?v=R6Fa050dKPA" target="_blank">Video Tutorial by Abimanyu</a>
+<a href="https://www.youtube.com/watch?v=R6Fa050dKPA" target="_blank">Video Tutorial Design 3D by Abimanyu</a>
 
 #### Foto 3D
 <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/3D%20Package/ALL%20IN.jpeg" alt="Desain 3D">
@@ -122,10 +122,13 @@ Tutorial pembuatan desain 3D untuk pengemasan alat proyek dapat dilihat pada lin
 Detail foto untuk kemasan dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/3D%20Package" target="_blank">Pict Package</a>
 
 ### Program
-#### Convert Audio ke File RAW
-Data dari semua tuts piano yang telah dicovert menjadi file RAW dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/Tuts%20Piano" target="_blank">All Audio Piano</a>.
+#### Convert Audio
+Data dari semua tuts piano yang telah dikonversi dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/Tuts%20Piano" target="_blank">All Audio Piano</a>.
 
 #### Video Convert Audio
+Tutorial mengkonversi audio dapat dilihat pada link berikut:
+<a href="https://drive.google.com/file/d/1lOgqFtMnbho2i-TdwihDMigcp6qOo6Ut/view" target="_blank">Video Tutorial Convert Audio by Salsabillah</a>
+
 #### Simulasi Program
 Simulasi dapat dilihat pada: <a href="https://wokwi.com/projects/398312099364933633" target="_blank">Wokwi Simulation</a>.
 
