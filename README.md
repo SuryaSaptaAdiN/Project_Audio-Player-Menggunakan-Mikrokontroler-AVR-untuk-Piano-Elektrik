@@ -12,7 +12,7 @@ DIBUAT OLEH:
 | 2  | Abimanyu Fajar Ramadhan  | 2122500008  | Designer Hardware  |
 | 3  |  Abdullah Hanafi Salim  | 2122500010  |  Programmer |
 | 4  |  Gusma Kemal Pasha |  2122500011 | PCB Maker |
-| 5  |  Salsabillah Whita Rosa | 2122500022  |  sebagai Audio Setting |
+| 5  |  Salsabillah Whita Rosa | 2122500022  |  Audio Editor |
 | 6  | Hambali Ahmad  |  2122500027 | Dokumenter  |
 
 ## Daftar Isi
@@ -91,6 +91,8 @@ Detail desain skematik dapat dilihat pada: <a href="https://github.com/SuryaSapt
 #### Video Desain PCB
 
 #### Hasil Gambar PCB
+<img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/PCB/back%20pcb.jpeg" alt="PCB">
+Detail hasil desain PCB dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/PCB" target="_blank">Pict PCB</a>
 
 ### 3D Kemasan Proyek
 #### Desain 3D Case Arduino
@@ -125,7 +127,10 @@ Simulasi dapat dilihat pada: <a href="https://wokwi.com/projects/398312099364933
 Detail dari simulasi dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/Simulation" target="_blank">Simulation Github</a>.
 #### Video Simulasi
 Simulasi dari program melalui software wokwi dapat dilihat pada link berikut:
-<a href="https://youtu.be/XzKsaTkORDI?si=tM6pIqVIvMEymQc2" target="_blank">Video Simulasi by Surya & Hanafi</a>
+<a href="https://youtu.be/XzKsaTkORDI?si=tM6pIqVIvMEymQc2" target="_blank">Video Simulation Wokwi by Surya & Hanafi</a>
+
+Simulasi alat piano dapat dilihat pada video berikut:
+https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/assets/168740916/93c877ef-d919-4c5d-9aa7-36d04b013b71
 
 #### Realisasi Program
 ## Dokumentasi Proyek dan Team
