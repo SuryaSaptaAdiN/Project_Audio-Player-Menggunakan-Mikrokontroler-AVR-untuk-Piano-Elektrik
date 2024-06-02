@@ -3,12 +3,12 @@
 DOSEN PENGAMPU : Akhmad Hendriawan ST, MT  
 NIP. 197501272002121003
 
-<img src="" alt="Poster">
+<img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/About%20Project/cover.jpeg" alt="Poster">
 
 DIBUAT OLEH:
 | No.  | Nama  | NRP  | Status  |
 | :------------: | :------------: | :------------: | :------------: |
-| 1  | Surya Sapta Adi Nugraha  | 2122500014  | Leader  |
+| 1  | Surya Sapta Adi Nugraha  | 2122500014  | Project Manager  |
 | 2  | Abimanyu Fajar Ramadhan  | 2122500008  | Designer Hardware  |
 | 3  |  Abdullah Hanafi Salim  | 2122500010  |  Programmer |
 | 4  |  Gusma Kemal Pasha |  2122500011 | PCB Maker |
@@ -130,6 +130,7 @@ Simulasi dari program melalui software wokwi dapat dilihat pada link berikut:
 <a href="https://youtu.be/XzKsaTkORDI?si=tM6pIqVIvMEymQc2" target="_blank">Video Simulation Wokwi by Surya & Hanafi</a>
 
 Simulasi alat piano dapat dilihat pada video berikut:
+
 https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/assets/168740916/93c877ef-d919-4c5d-9aa7-36d04b013b71
 
 #### Realisasi Program
