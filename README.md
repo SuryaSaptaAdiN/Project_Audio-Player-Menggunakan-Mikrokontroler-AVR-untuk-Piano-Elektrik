@@ -18,7 +18,7 @@ DIBUAT OLEH:
 ## Daftar Isi
 - [Deskripsi](#Deskripsi)
 - [Fitur](#Fitur)
-- [Alat & Bahan](#Alat-&-Bahan)
+- [Alat dan Bahan](#Alat-dan-Bahan)
   - [Daftar Alat Software](#Daftar-Alat-Software)
   - [Daftar Alat dan Bahan Hardware](#Daftar-Alat-dan-Bahan-Hardware)
 - [Konsep Kerja](#Konsep-Kerja)
@@ -52,7 +52,7 @@ Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan 
 - Tombol push button untuk memainkan nada tertentu.
 - Output audio dikeluarkan ke speaker aktif.
 
-## Alat & Bahan
+## Alat dan Bahan
 ### Daftar Alat Software
 1. Visual Studio Code
 2. Github
