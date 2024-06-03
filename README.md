@@ -93,6 +93,8 @@ Detail desain shield PCB dapat dilihat pada: <a href="https://github.com/SuryaSa
 Detail desain skematik dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/tree/main/Simulation" target="_blank">Design Sistem</a>
 
 #### Video Desain PCB
+Tutorial desain  PCB dapat dilihat pada link berikut:
+<a href="https://drive.google.com/file/d/1Dn3zpLJODagx13IVd2wvJaMp7lEnFp5E/view?usp=sharing">Video Tutorial Design PCB by Gusma</a>
 
 #### Hasil Gambar PCB
 <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/PCB/back%20pcb.jpeg" alt="PCB">
@@ -144,6 +146,9 @@ https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontrole
 
 #### Realisasi Program
 Bentuk realisasi final program dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/Program/Audio%20Player/src/main.cpp" target="_blank">Main Program</a>
+
+Penjelasan detail dari program dapat dilihat pada link berikut:
+<a href="https://drive.google.com/file/d/1Dn3zpLJODagx13IVd2wvJaMp7lEnFp5E/view?usp=sharing" target="_blank">Video Program by Hanafi</a>
 
 #### Realisasi EEPROM
 Bentuk realisasi EEPROM dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/Program/Audio%20Player/src/pitches.h" target="_blank">EEPROM Program</a>
