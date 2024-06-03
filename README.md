@@ -18,7 +18,7 @@ DIBUAT OLEH:
 ## Daftar Isi
 - [Deskripsi](#Deskripsi)
 - [Fitur](#Fitur)
-- [Alat & Bahan](#Alat-&-Bahan)
+- [Alat dan Bahan](#Alat-dan-Bahan)
   - [Daftar Alat Software](#Daftar-Alat-Software)
   - [Daftar Alat dan Bahan Hardware](#Daftar-Alat-dan-Bahan-Hardware)
 - [Konsep Kerja](#Konsep-Kerja)
@@ -41,6 +41,7 @@ DIBUAT OLEH:
     - [Simulasi Program](#Simulasi-Program)
     - [Video Simulasi](#Video-Simulasi)
     - [Realisasi Program](#Realisasi-Program)
+    - [Realisasi EEPROM](#Realisasi-EEPROM)
 - [Dokumentasi Proyek dan Team](#Dokumentasi-Proyek-dan-Team)
   
 ## Deskripsi
@@ -51,7 +52,7 @@ Proyek digital audio player adalah sebuah sistem yang memungkinkan pembangkitan 
 - Tombol push button untuk memainkan nada tertentu.
 - Output audio dikeluarkan ke speaker aktif.
 
-## Alat & Bahan
+## Alat dan Bahan
 ### Daftar Alat Software
 1. Visual Studio Code
 2. Github
@@ -142,6 +143,11 @@ Simulasi alat piano dapat dilihat pada video berikut:
 https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/assets/168740916/93c877ef-d919-4c5d-9aa7-36d04b013b71
 
 #### Realisasi Program
+Bentuk realisasi final program dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/Program/Audio%20Player/src/main.cpp" target="_blank">Main Program</a>
+
+#### Realisasi EEPROM
+Bentuk realisasi EEPROM dapat dilihat pada: <a href="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/Program/Audio%20Player/src/pitches.h" target="_blank">EEPROM Program</a>
+
 ## Dokumentasi Proyek dan Team
 https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/assets/168740916/ee1586a2-95dd-4360-ae75-e725f54b5b29
 
