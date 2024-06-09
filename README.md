@@ -5,6 +5,8 @@ NIP. 197501272002121003
 
 <img src="https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/blob/main/About%20Project/cover.jpeg" alt="Poster">
 
+https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/assets/168740916/dbf298af-808a-47be-9ff9-27a4f887b5b3
+
 DIBUAT OLEH:
 | No.  | Nama  | NRP  | Status  |
 | :------------: | :------------: | :------------: | :------------: |
