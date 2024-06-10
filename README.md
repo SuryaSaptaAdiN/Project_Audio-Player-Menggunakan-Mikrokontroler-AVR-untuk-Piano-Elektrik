@@ -9,6 +9,8 @@ https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontrole
 
 Video Ads dari Piano Elektrik dapat dilihat pada: <a href="https://www.youtube.com/watch?v=zn1vYoaUdRE" target="_blank">Video Ads</a>
 
+Video Presentasi dari Piano Elektrik dapat dilihat pada: <a href="https://youtu.be/qKnIm3eNd0Y" target="_blank">Video presentation Project</a>
+
 DIBUAT OLEH:
 | No.  | Nama  | NRP  | Status  |
 | :------------: | :------------: | :------------: | :------------: |
