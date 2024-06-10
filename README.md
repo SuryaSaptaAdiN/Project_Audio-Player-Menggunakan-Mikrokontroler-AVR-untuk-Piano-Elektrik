@@ -7,6 +7,8 @@ NIP. 197501272002121003
 
 https://github.com/SuryaSaptaAdiN/Project_Audio-Player-Menggunakan-Mikrokontroler-AVR-untuk-Piano-Elektrik/assets/168740916/dbf298af-808a-47be-9ff9-27a4f887b5b3
 
+Video Ads dari Piano Elektrik dapat dilihat pada: <a href="https://www.youtube.com/watch?v=zn1vYoaUdRE" target="_blank">Video Ads</a>
+
 DIBUAT OLEH:
 | No.  | Nama  | NRP  | Status  |
 | :------------: | :------------: | :------------: | :------------: |
